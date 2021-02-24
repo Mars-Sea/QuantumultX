@@ -7,6 +7,7 @@
 * [QuantumultX.conf](https://raw.githubusercontent.com/Mars-Sea/QuantumultX/main/QuantumultX.conf)
 * [京东系列gallery订阅](https://raw.githubusercontent.com/Mars-Sea/QuantumultX/main/JD%20task%20gallery.json)
 * [自用其他签到脚本gallery订阅](https://raw.githubusercontent.com/Mars-Sea/QuantumultX/main/%20Other%20task%20gallery.json)
+* [获取cookie脚步订阅](https://raw.githubusercontent.com/Mars-Sea/QuantumultX/main/QuantumultX%20Cookie.conf)
 
 # 免责声明
 1. 项目中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断。
