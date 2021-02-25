@@ -3,7 +3,7 @@
 * 只是搬运和同步更新大佬脚本，不负责维护脚本！
 * 只测试自用脚本，其他大部分脚本未测试可用性。
 
-## Quantumult X懒人配置：（2021.02.24更新）
+## Quantumult X懒人配置：（2021.02.25更新）
 * [QuantumultX.conf](https://raw.githubusercontent.com/Mars-Sea/QuantumultX/main/QuantumultX.conf)
 * [京东系列gallery订阅](https://raw.githubusercontent.com/Mars-Sea/QuantumultX/main/JD%20task%20gallery.json)
 * [自用其他签到脚本gallery订阅](https://raw.githubusercontent.com/Mars-Sea/QuantumultX/main/%20Other%20task%20gallery.json)
@@ -17,5 +17,3 @@
 5. 对任何脚本问题概不负责，包括但不限于由任何脚本错误导致的任何损失或损害。
 6. 您必须在下载后的24小时内从计算机或手机中完全删除以上内容。
 7. 任何以任何方式查看此项目的人或直接或间接使用该Script项目的任何脚本的使用者都应仔细阅读此声明。保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本或Script项目的规则，则视为您已接受此免责声明。
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mars-Sea&show_icons=true&theme=merko)](https://github.com/Mars-Sea)
