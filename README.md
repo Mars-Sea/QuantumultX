@@ -17,3 +17,5 @@
 5. 对任何脚本问题概不负责，包括但不限于由任何脚本错误导致的任何损失或损害。
 6. 您必须在下载后的24小时内从计算机或手机中完全删除以上内容。
 7. 任何以任何方式查看此项目的人或直接或间接使用该Script项目的任何脚本的使用者都应仔细阅读此声明。保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本或Script项目的规则，则视为您已接受此免责声明。
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mars-Sea&show_icons=true&theme=merko)](https://github.com/Mars-Sea)
