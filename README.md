@@ -3,11 +3,11 @@
 * 只是搬运和同步更新大佬脚本，不负责维护脚本！
 * 只测试自用脚本，其他大部分脚本未测试可用性。
 
-## Quantumult X懒人配置：（2021.02.25更新）
+## Quantumult X懒人配置：（2021.06.7更新）
 * [QuantumultX.conf](https://raw.githubusercontent.com/Mars-Sea/QuantumultX/main/QuantumultX.conf)
-* [京东系列gallery订阅](https://raw.githubusercontent.com/Mars-Sea/QuantumultX/main/JD%20task%20gallery.json)
-* [自用其他签到脚本gallery订阅](https://raw.githubusercontent.com/Mars-Sea/QuantumultX/main/%20Other%20task%20gallery.json)
-* [获取cookie脚步订阅](https://raw.githubusercontent.com/Mars-Sea/QuantumultX/main/QuantumultX%20Cookie.conf)
+* [京东系列gallery订阅](https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301_gallery.json)
+* [自用其他签到脚本gallery订阅](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_Task.json)
+* [获取cookie脚步订阅](https://raw.githubusercontent.com/Orz-3/QuantumultX/master/JS_GetCookie.conf)
 
 # 免责声明
 1. 项目中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断。
